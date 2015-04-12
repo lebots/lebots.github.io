@@ -131,3 +131,14 @@ input#tp{
 	display: none;
 	position: relative;
 }
+
+#tq:checked ~ .hiddenimg{
+	display: block;
+	visibility: visible;
+	opacity: 1;
+}
+
+input#tq{
+	display: none;
+	position: relative;
+}
