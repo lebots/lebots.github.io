@@ -3,10 +3,6 @@ body{
 	font: 18px/1.5 Helvetica, Arial, sans-serif; 
 }	
 
-.boldface{
-	font-weight: bolder;
-}
-
 .feed{
 	border: 2px solid #CCCCCC;
 }
