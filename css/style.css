@@ -63,7 +63,8 @@ background-color: #0a1517;
 .accordion label{
 	display:block;
 	background-color: #9C9C9C;
-	padding: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	color: black;
 	font-family: Century Gothic, sans-serif;
 	cursor: help;
