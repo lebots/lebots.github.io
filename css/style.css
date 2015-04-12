@@ -13,9 +13,9 @@ background-color: #0a1517;
 }
 
 .header_image{
- float: left;
- float:top;
- height: 100px;
+	float: left;
+	float:top;
+	height: 100px;
  }
  
  #edge{
@@ -56,9 +56,6 @@ background-color: #0a1517;
 
 
 #acccontainer{
-	float: left;
-	float: bottom;
-	width: auto;
 	height: auto;
 	margin: 0 auto;
 }
