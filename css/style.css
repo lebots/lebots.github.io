@@ -39,6 +39,10 @@ background-color: #0a1517;
 	 width: 60px;
 }
 
+.map{
+	width: 1100px;
+}
+
 .footer {
 	height: 30px;
 	text-align: center;
